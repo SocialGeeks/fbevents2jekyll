@@ -1,31 +1,24 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 import json
 import urllib
 from datetime import datetime
 
-def getFbEventsJson(file):
-	f = open("sg_events.json", "r")
+def getFile(name):
+	f = open(name, "r")
 	file = f.read()
-	events = json.loads(file)
 	f.close()
-	return events
+	return file 
 
-def getJekyllTemplate(file):
-	f = open("template.md", "r")
-	template = f.read()
-	f.close()
-	return template
+def retrievePicture(source, destination):
+	if source is not None:	
+		urllib.urlretrieve(source, destination)
 
-def saveThumbnail(name, file):
-	f = open(name, "rw")
-	f.write(file)
-	
 json_file = "sg_events.json"
-events = getFbEventsJson(json_file)
+events = json.loads(getFile(json_file))
 
 template_file = "template.md"
-template_original = getJekyllTemplate(template_file)
+template_original = getFile(template_file)
 
 for event in events["data"]:
 # name, description, start_time, end_time, location, host, venue, pic, pic_big, pic_cover, pic_small
@@ -36,7 +29,11 @@ for event in events["data"]:
 	start_date = str(datetime.strptime(event["start_time"][:10], "%Y-%m-%d"))[:10]
 
 	file_name = start_date + "-" + event["name"].replace(" ", "-").replace("/", "").replace('"', "").replace("'", "")
-	thumbnail = "output/public/images/thumbnails/" + file_name + ".jpg"
+	pic_base = "output/public/images/thumbnails/"
+	pic = pic_base + file_name + ".jpg"
+	pic_big = pic_base + file_name + "_big.jpg"
+	pic_cover = pic_base + file_name + "_cover.jpg"
+	pic_small = pic_base + file_name + "_small.jpg"
 	post = "output/_posts/" + file_name + ".md"
 
 	template = template.replace("[TITLE]", event["name"].replace("'", "").replace('"', ""))
@@ -45,13 +42,17 @@ for event in events["data"]:
 	template = template.replace("[THUMBNAIL]", file_name + ".jpg")
 	template = template.replace("[BODY]", "Start time: " + event["start_time"] + "  \n" + event["description"])
 	template = template.replace("****", "##")
-	template = template.encode('ascii', 'ignore')
+	template = template.encode("ascii", "ignore")
 
 	file = open(post, "w")
 	file.write(template)
 	file.close()
 
-	urllib.urlretrieve(event["pic"], thumbnail)
+	retrievePicture(event["pic"], pic)
+	retrievePicture(event["pic_big"], pic_big)
+	if event["pic_cover"] is not None:
+		retrievePicture(event["pic_cover"]["source"], pic_cover)
+	retrievePicture(event["pic_small"], pic_small)
 
  
 #"name": "Network Sys Tech Student CCNA study group", 
