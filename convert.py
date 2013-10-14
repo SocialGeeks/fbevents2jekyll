@@ -26,7 +26,7 @@ for event in events["data"]:
 	print("[+] Processing event '" + event["name"] + "'")
 
 	template = template_original	
-	start_date = str(datetime.strptime(event["start_time"][:10], "%Y-%m-%d"))[:10]
+	start_date = event["start_time"][:10]
 
 	file_name = start_date + "-" + event["name"].replace(" ", "-").replace("/", "").replace('"', "").replace("'", "")
 	pic_base = "output/public/images/thumbnails/"
@@ -38,10 +38,12 @@ for event in events["data"]:
 
 	template = template.replace("[TITLE]", event["name"].replace("'", "").replace('"', ""))
 	template = template.replace("[DESCRIPTION]", event["location"] + " " + event["description"][:20] + "...")	
-	template = template.replace("[TAGLINE]", event["start_time"])
+	template = template.replace("[TAGLINE]", start_date)
 	template = template.replace("[THUMBNAIL]", file_name + ".jpg")
 	template = template.replace("[BODY]", "Start time: " + event["start_time"] + "  \n" + event["description"])
-	template = template.replace("****", "##")
+	# One of the posts has **** before and after text which messes up the template engine
+	template = template.replace("****", "###")
+	# One of the posts has some unicode that wasn't saving correctly
 	template = template.encode("ascii", "ignore")
 
 	file = open(post, "w")
