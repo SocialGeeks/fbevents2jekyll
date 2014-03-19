@@ -1,812 +1,757 @@
 {
   "data": [
     {
-      "name": "Network Sys Tech Student CCNA study group", 
-      "description": "Canyon room 123", 
-      "start_time": "2013-05-29T18:00:00-0600", 
-      "end_time": "2013-05-29T21:00:00-0600", 
-      "location": "College of Southern Idaho", 
-      "host": "SocialGeeks", 
+      "name": "Boise Code Camp",
+      "description": "You most definitely want to do this.\nCSI will be providing a bus to transport you down there and back. !! FREE !! breakfast and lunch will be provided during the event.\nRegister for the bus here: http://goo.gl/M0XAzf\n\nThis is the biggest, most IT specific event in the state. Come for either the free training sessions by industry experts, stay for the incredible recruiting opportunity. (Bring business cards containing a URL to your resume)\n\nHere's more info: http://boisecodecamp.com/about-us",
+      "start_time": "2014-04-05",
+      "location": "Boise Code Camp",
       "venue": {
-        "latitude": 42.580160676872, 
-        "longitude": -114.47447860752, 
-        "city": "Twin Falls", 
-        "state": "ID", 
-        "country": "United States", 
-        "id": 161280523619, 
-        "street": "315 Falls Avenue", 
-        "zip": "83303"
-      }, 
-      "pic": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/c225.0.264.264/s296x100/295369_10151592138587432_1816131650_n.jpg", 
-      "pic_big": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/c225.0.264.264/s552x414/295369_10151592138587432_1816131650_n.jpg", 
-      "pic_cover": {
-        "cover_id": "10151592138587432", 
-        "source": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/295369_10151592138587432_1816131650_n.jpg", 
-        "offset_y": 0, 
-        "offset_x": 0
-      }, 
-      "pic_small": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/c225.0.264.264/s160x160/295369_10151592138587432_1816131650_n.jpg"
-    }, 
+        "latitude": 43.605345,
+        "longitude": -116.206303,
+        "city": "Boise",
+        "state": "ID",
+        "country": "United States",
+        "id": "70316710870",
+        "street": " 1910 University Drive",
+        "zip": "83725"
+      },
+      "id": "219021271637002",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-prn2/t1/c13.0.50.50/p50x50/1796647_803438096338451_1622544091_a.jpg"
+        }
+      }
+    },
     {
-      "name": "SG Meeting", 
-      "description": "", 
-      "start_time": "2013-03-14T18:30:00-0600", 
-      "end_time": null, 
-      "location": "CSI Canyon building room 123", 
-      "host": "SocialGeeks", 
+      "name": "SocialGeeks GeekOut LAN",
+      "description": "LAN Dates:\n  -  Setup: Friday, April 20th at 7PM. Setup includes tables, cables and chairs and such. Bring your stuff on Game Day\n  -  Game Day: Saturday, April 21st starting at 9AM until whenever the fun ends on Sunday\n  -  Tournament: Saturday Evening\n  -  Cleanup: Sunday, April 22nd at 12PM\n\nLocation: College of Southern Idaho, Taylor Building, Fireplace Room\n\nWho can play? Anyone is welcome to come and play, though there are requirements on winning the grand prize for the tournament.\n\nGames that might be played:\n\n -   Starcraft II\n -   League of Legends\n  -  Team Fortress 2\n  -  Battlefield 3\n  -  Modern Warfare 3\n  -  Portal 2\n  -  Age of Chivalry\n  -  Dirt 3\n  -  Left 4 Dead 2\n  -  Dungeon Defenders\n  -  Magicka\n  -  Pirates, Vikings, and Knights II\n  -  And other popular games\n\nFood and Drink: Bring your own snacks, drinks and whatever else you want. \n\nTournament Details:\n\n  -  The tournament game that will be played for the prizes is Starcraft II.\n  -  Anyone can participate in the tournament, but there are a few requirements if you wish to win the Grand Prize. All other prizes are fair game.\n     1)  Must be ages 17+ OR #2\n     2)  High School Students: Must be a Senior planning on attending CSI in the Fall\n     3)  Everyone else: Must plan on attending CSI in the Fall, not dual-credits\n     4)  Must have a PC capable of playing Starcraft II, or arrangements to use someone else's during the tournament\n     5)   Must have legal copy of Starcraft II, with battle.net account or arrangements as stated above\n\nTournament Prizes:\n\n  -  Grand Prize: $500 CSI Scholarship, open to any major or degree\n\nThings to bring:\n\n -   Computer, up to date\n -   Games installed and UPDATED TO LATEST PATCH\n -   Mouse, mousepad and keyboard\n -   Headphones! NO Speakers\n -   Power cables and monitor cables\n -   Spare ethernet cable, just in case it's needed\n -   Anything else you think is essential",
+      "start_time": "2012-04-21T09:00:00",
+      "end_time": "2012-04-22T00:30:00",
+      "location": "College of Southern Idaho, Taylor Building, Fireplace Room",
       "venue": {
-        "name": "CSI Canyon building room 123"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
-    {
-      "name": "Social Geeks First Spring Semester Meeting", 
-      "description": "", 
-      "start_time": "2013-02-07T18:00:00-0700", 
-      "end_time": "2013-02-07T20:00:00-0700", 
-      "location": "CSI Canyon Building Room 123", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "CSI Canyon Building Room 123"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
-    {
-      "name": "CSI SG Club Tree Decoration", 
-      "description": "Sorry for the timing on this.\nWe need to have our tree up by end of the day, Tues 12/4/12", 
-      "start_time": "2012-12-04T16:00:00-0700", 
-      "end_time": null, 
-      "location": "College of Southern Idaho Room Canyon 123", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "College of Southern Idaho Room Canyon 123"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/276723_118304414998884_213098592_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/276723_118304414998884_213098592_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/276723_118304414998884_213098592_t.jpg"
-    }, 
-    {
-      "name": "Southern Idaho FIRST Tech Challenge Scrimmage and Workshop 2012", 
-      "description": "SocialGeeks club will be participating with Southern Idaho FIRST for the 1st annual FIRST FTC scrimmage and workshop on CSI campus on Nov 17th.\n\nEvent volunteers are needed as follows:\n-Field, scoreboard, wireless setup crew (6) Friday, Nov 16th.\n-Scrimmage Referees (4)\n-Scorekeepers (2)\n\nSetup Friday at 7pm in the ballrooms in Taylor. Scrimmage starts at 10am Saturday, with a match every half hour, with a break for lunch. We finish at 2pm. I will take care of the music and emcees. Training for the scrimmage will be at 9am Sat. \n", 
-      "start_time": "2012-11-16T17:00:00-0700", 
-      "end_time": "2012-11-17T20:00:00-0700", 
-      "location": "College of Southern Idaho, Taylor 276/277 ", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "College of Southern Idaho, Taylor 276/277 "
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/276913_358305280929446_767237877_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/276913_358305280929446_767237877_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/276913_358305280929446_767237877_t.jpg"
-    }, 
-    {
-      "name": "Exploring CTF techniques with SamuriWTF", 
-      "description": "SamuraiWTF  - http://sourceforge.net/projects/samurai/", 
-      "start_time": "2012-10-24T18:00:00-0600", 
-      "end_time": "2012-10-24T20:00:00-0600", 
-      "location": "CSI Canyon 123", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "CSI Canyon 123"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/261160_458248527559464_681034226_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/261160_458248527559464_681034226_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/261160_458248527559464_681034226_t.jpg"
-    }, 
-    {
-      "name": "SG Meeting - Wed 9-19-12 MFG Shop Field Trip", 
-      "description": "We will all meet at the Canyon Ridge High School at 6pm with Ben Hammlett for a tour of the manufacturing program shop.", 
-      "start_time": "2012-09-19T18:00:00-0600", 
-      "end_time": "2012-09-19T19:30:00-0600", 
-      "location": "Canyon Ridge High School", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "latitude": 42.586790092987, 
-        "longitude": -114.48465529832, 
-        "city": "Twin Falls", 
-        "state": "ID", 
-        "country": "United States", 
-        "id": 159408824074014, 
-        "street": "300 North College Rd. West ", 
-        "zip": "83301"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
-    {
-      "name": "SG First Meeting!", 
-      "description": "AVR ATmel programming presentation.", 
-      "start_time": "2012-09-12T17:00:00-0600", 
-      "end_time": null, 
-      "location": "College of Southern Idaho Canyone 123", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "College of Southern Idaho Canyone 123"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
-    {
-      "name": "Security for the web professional", 
-      "description": "(7/14 10am, Canyon Building - room 123 - Cisco networking room)\n\n**** LOOKING FOR SOMEONE TO SPONSOR LUNCH FOR HOARDS OF HUNGRY GEEKS ****\n\nJoin us in a hands on discussion about current trends in web attacks and exploitation.  We'll have group discussions about different subjects followed up by hands on exercises.  \n\nHere is a list of subjects up for discussion.  I'm still fine tuning the list to what we can fit in ~5 hours.  \n\nOverviews of the HTTP protocol\nThe attack surface of a web application\nReconnaissance (open source intelligence)\nAttacks in action\n- Injection attacks\n- XSS\n- CSRF\n- Login weaknesseses\n- Session weaknesses\n- Abusing user input\n- Attacking Web 2.0\n- Scripting (automate what you can)\n- Attacking the client\n\nI know we won't have time to cover the above list in a five hour period with labs, but we'll spend the time covering as much as we can.  Then we can set a time to meet again.\n\nFor those of you not local, but are interested, let us know as we are trying to put together a remote option as well.\n\nDino\n\n", 
-      "start_time": "2012-07-14T10:00:00-0600", 
-      "end_time": null, 
-      "location": "College of Southern Idaho, Canyon Building room 123, Twin Falls, Idaho 83301", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "name": "College of Southern Idaho, Canyon Building room 123, Twin Falls, Idaho 83301"
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/157931_403705192999021_269848703_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/157931_403705192999021_269848703_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/157931_403705192999021_269848703_t.jpg"
-    }, 
-    {
-      "name": "SocialGeeks GeekOut LAN", 
-      "description": "LAN Dates:\n  -  Setup: Friday, April 20th at 7PM. Setup includes tables, cables and chairs and such. Bring your stuff on Game Day\n  -  Game Day: Saturday, April 21st starting at 9AM until whenever the fun ends on Sunday\n  -  Tournament: Saturday Evening\n  -  Cleanup: Sunday, April 22nd at 12PM\n\nLocation: College of Southern Idaho, Taylor Building, Fireplace Room\n\nWho can play? Anyone is welcome to come and play, though there are requirements on winning the grand prize for the tournament.\n\nGames that might be played:\n\n -   Starcraft II\n -   League of Legends\n  -  Team Fortress 2\n  -  Battlefield 3\n  -  Modern Warfare 3\n  -  Portal 2\n  -  Age of Chivalry\n  -  Dirt 3\n  -  Left 4 Dead 2\n  -  Dungeon Defenders\n  -  Magicka\n  -  Pirates, Vikings, and Knights II\n  -  And other popular games\n\nFood and Drink: Bring your own snacks, drinks and whatever else you want. \n\nTournament Details:\n\n  -  The tournament game that will be played for the prizes is Starcraft II.\n  -  Anyone can participate in the tournament, but there are a few requirements if you wish to win the Grand Prize. All other prizes are fair game.\n     1)  Must be ages 17+ OR #2\n     2)  High School Students: Must be a Senior planning on attending CSI in the Fall\n     3)  Everyone else: Must plan on attending CSI in the Fall, not dual-credits\n     4)  Must have a PC capable of playing Starcraft II, or arrangements to use someone else's during the tournament\n     5)   Must have legal copy of Starcraft II, with battle.net account or arrangements as stated above\n\nTournament Prizes:\n\n  -  Grand Prize: $500 CSI Scholarship, open to any major or degree\n\nThings to bring:\n\n -   Computer, up to date\n -   Games installed and UPDATED TO LATEST PATCH\n -   Mouse, mousepad and keyboard\n -   Headphones! NO Speakers\n -   Power cables and monitor cables\n -   Spare ethernet cable, just in case it's needed\n -   Anything else you think is essential", 
-      "start_time": "2012-04-21T09:00:00", 
-      "end_time": "2012-04-22T00:30:00", 
-      "location": "College of Southern Idaho, Taylor Building, Fireplace Room", 
-      "host": "SocialGeeks", 
-      "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://profile-b.xx.fbcdn.net/hprofile-ash4/373041_422347727782635_377897205_s.jpg", 
-      "pic_big": "https://profile-b.xx.fbcdn.net/hprofile-ash4/373041_422347727782635_377897205_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://profile-b.xx.fbcdn.net/hprofile-ash4/373041_422347727782635_377897205_t.jpg"
-    }, 
+      },
+      "id": "422347727782635",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/t5/373041_422347727782635_377897205_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Cisco Study Group Night", 
-      "description": "To all Cisco students, or people who are planning on taking the CCNA, CCENT (ICND1 & 2).  I am having a group study night Wednesday Feb 22 @ 6pm in the Cisco IT lab(Canyon 123) at CSI.  \n\nBring your topics you wish to discuss or better learn and we shall do what we can to teach and improve.\n\nAs a note, this is NOT a beginner study night. Advanced topics will be discussed.", 
-      "start_time": "2012-02-22T18:00:00", 
-      "end_time": "2012-02-22T21:00:00", 
-      "location": "CSI, Canyon 123 (Cisco IT Lab)", 
-      "host": "SocialGeeks", 
+      "name": "Cisco Study Group Night",
+      "description": "To all Cisco students, or people who are planning on taking the CCNA, CCENT (ICND1 & 2).  I am having a group study night Wednesday Feb 22 @ 6pm in the Cisco IT lab(Canyon 123) at CSI.  \n\nBring your topics you wish to discuss or better learn and we shall do what we can to teach and improve.\n\nAs a note, this is NOT a beginner study night. Advanced topics will be discussed.",
+      "start_time": "2012-02-22T18:00:00",
+      "end_time": "2012-02-22T21:00:00",
+      "location": "CSI, Canyon 123 (Cisco IT Lab)",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/50260_110364365758385_2121115234_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/50260_110364365758385_2121115234_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/50260_110364365758385_2121115234_t.jpg"
-    }, 
+      },
+      "id": "110364365758385",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/t5/50260_110364365758385_2121115234_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Southern Idaho Google Technology User Groups - DevCamp", 
-      "description": "http://southernidaho.gtugs.org/", 
-      "start_time": "2012-02-16T18:00:00", 
-      "end_time": "2012-02-19T18:00:00", 
-      "location": "Twin Falls High School", 
-      "host": "SocialGeeks", 
+      "name": "Southern Idaho Google Technology User Groups - DevCamp",
+      "description": "http://southernidaho.gtugs.org/",
+      "start_time": "2012-02-16T18:00:00",
+      "end_time": "2012-02-19T18:00:00",
+      "location": "Twin Falls High School",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "152074794908992",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Meeting #1 - Arduinos", 
-      "description": "For the first meeting of the semester we will be meeting in the CSI SUB at 7pm.  Perhaps due to change depending on the club.  We will be playing with the arduinos this night to get a little lead on what programming can do.  This will be a lead up to other nights.  \n\nAlso, since this is the first night, i want to make sure as many people are there as possible so we can get your idea's, wants of the club, and reassignments if needed all done.", 
-      "start_time": "2012-01-25T19:00:00", 
-      "end_time": "2012-01-25T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Meeting #1 - Arduinos",
+      "description": "For the first meeting of the semester we will be meeting in the CSI SUB at 7pm.  Perhaps due to change depending on the club.  We will be playing with the arduinos this night to get a little lead on what programming can do.  This will be a lead up to other nights.  \n\nAlso, since this is the first night, i want to make sure as many people are there as possible so we can get your idea's, wants of the club, and reassignments if needed all done.",
+      "start_time": "2012-01-25T19:00:00",
+      "end_time": "2012-01-25T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "211082472318085",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Decorate the Tree", 
-      "description": "We are going to decorate our tree for the Row of trees or whatever thing.  Our theme will be video game objects.  So some 8-bit characters, a companion cube or two and more.  With the top of the tree getting the Mario Star on it.", 
-      "start_time": "2011-11-30T19:00:00", 
-      "end_time": "2011-11-30T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Decorate the Tree",
+      "description": "We are going to decorate our tree for the Row of trees or whatever thing.  Our theme will be video game objects.  So some 8-bit characters, a companion cube or two and more.  With the top of the tree getting the Mario Star on it.",
+      "start_time": "2011-11-30T19:00:00",
+      "end_time": "2011-11-30T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "162773513820218",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Introduction to Malware Analysis", 
-      "description": "CSI -- This even will be fun for codeers and non-coders alike.  I'll be providing a VirtualBox image that we can use to analyze a piece of malware using free well-known tools.  It is only a start, but this should have something for everyone.  Don't let assembly scare you away, that only comes out at the very end. ;)", 
-      "start_time": "2011-11-29T19:00:00", 
-      "end_time": "2011-11-29T22:00:00", 
-      "location": "SUB 247", 
-      "host": "SocialGeeks", 
+      "name": "Introduction to Malware Analysis",
+      "description": "CSI -- This even will be fun for codeers and non-coders alike.  I'll be providing a VirtualBox image that we can use to analyze a piece of malware using free well-known tools.  It is only a start, but this should have something for everyone.  Don't let assembly scare you away, that only comes out at the very end. ;)",
+      "start_time": "2011-11-29T19:00:00",
+      "end_time": "2011-11-29T22:00:00",
+      "location": "SUB 247",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "314554765222535",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "MyStory by Don Hall, Mayor of Twin Falls, ID", 
-      "description": "Don Hall, the Mayor of Twin Falls, will be giving his MyStory night.  Always good speeches to come to.", 
-      "start_time": "2011-11-23T19:00:00", 
-      "end_time": "2011-11-23T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "MyStory by Don Hall, Mayor of Twin Falls, ID",
+      "description": "Don Hall, the Mayor of Twin Falls, will be giving his MyStory night.  Always good speeches to come to.",
+      "start_time": "2011-11-23T19:00:00",
+      "end_time": "2011-11-23T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "262902770420791",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Turkey LAN Takedown", 
-      "description": "If you can help take down all the stuff from the LAN, please sign up here!", 
-      "start_time": "2011-11-20T12:00:00", 
-      "end_time": "2011-11-20T15:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Turkey LAN Takedown",
+      "description": "If you can help take down all the stuff from the LAN, please sign up here!",
+      "start_time": "2011-11-20T12:00:00",
+      "end_time": "2011-11-20T15:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "181102631977645",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Turkey LAN Party", 
-      "description": "The Turkey LAN!  With tons of fragging comes tons of death.  So have your PC's up to date, ready to game.  We'll be playing all the recent games along with the good ole classics.  The LAN starts at 12pm in the CSI SUB.  Bring all your own gaming rig gear! There will be a spare comp for people to use who don't have stuff.", 
-      "start_time": "2011-11-19T12:00:00", 
-      "end_time": "2011-11-19T23:30:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Turkey LAN Party",
+      "description": "The Turkey LAN!  With tons of fragging comes tons of death.  So have your PC's up to date, ready to game.  We'll be playing all the recent games along with the good ole classics.  The LAN starts at 12pm in the CSI SUB.  Bring all your own gaming rig gear! There will be a spare comp for people to use who don't have stuff.",
+      "start_time": "2011-11-19T12:00:00",
+      "end_time": "2011-11-19T23:30:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "273661092665858",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Turkey LAN Setup", 
-      "description": "If you will be able to volunteer to help setup the tables and such for the LAN, please join up here.", 
-      "start_time": "2011-11-18T19:00:00", 
-      "end_time": "2011-11-18T22:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Turkey LAN Setup",
+      "description": "If you will be able to volunteer to help setup the tables and such for the LAN, please join up here.",
+      "start_time": "2011-11-18T19:00:00",
+      "end_time": "2011-11-18T22:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "239736176088303",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Cooking for Geeks v2.0", 
-      "description": "Theobroma cacao, this amazing food has played key roles in the development of some civilizations, it can evoke emotions of happiness for the eater, has several health benefits and has caffeine in it!!!!!! ... Okay it only has a small amount of caffeine but I digress, you won’t want to miss this sweet Cooking for Geeks!", 
-      "start_time": "2011-11-16T19:00:00", 
-      "end_time": "2011-11-16T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Cooking for Geeks v2.0",
+      "description": "Theobroma cacao, this amazing food has played key roles in the development of some civilizations, it can evoke emotions of happiness for the eater, has several health benefits and has caffeine in it!!!!!! ... Okay it only has a small amount of caffeine but I digress, you won’t want to miss this sweet Cooking for Geeks!",
+      "start_time": "2011-11-16T19:00:00",
+      "end_time": "2011-11-16T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "230857606969376",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Planning meeting for turkey LAN /w Arduinos after", 
-      "description": "Since no one hardly showed last week, we need to finish planning this thing which is next weekend!\n\nThen we get to have some more fun with arduinos afterwards!", 
-      "start_time": "2011-11-09T19:00:00", 
-      "end_time": "2011-11-09T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Planning meeting for turkey LAN /w Arduinos after",
+      "description": "Since no one hardly showed last week, we need to finish planning this thing which is next weekend!\n\nThen we get to have some more fun with arduinos afterwards!",
+      "start_time": "2011-11-09T19:00:00",
+      "end_time": "2011-11-09T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "214153498651768",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "CSI Social \"security\" Geeks", 
-      "description": "Come hang out with like-minded individuals and learn about computer/network security.  Some ideas for the meeting are to continue focusing on HTTP and vulnerable web applications and how/why they are vulnerable.  Hopefully getting everybody hands on this time.  \n\nAll things security interest us, so if you have something you are interested in, bring it forward to myself or Brian Gergens.  Nothing is set in stone at this point.  If you haven't already, go watch the two videos at http://www.socialh4ck3rs.com taken from Dan Guido's pentesting class.", 
-      "start_time": "2011-11-08T19:00:00", 
-      "end_time": "2011-11-08T21:30:00", 
-      "location": "Taylor 247 @ CSI", 
-      "host": "SocialGeeks", 
+      "name": "CSI Social \"security\" Geeks",
+      "description": "Come hang out with like-minded individuals and learn about computer/network security.  Some ideas for the meeting are to continue focusing on HTTP and vulnerable web applications and how/why they are vulnerable.  Hopefully getting everybody hands on this time.  \n\nAll things security interest us, so if you have something you are interested in, bring it forward to myself or Brian Gergens.  Nothing is set in stone at this point.  If you haven't already, go watch the two videos at http://www.socialh4ck3rs.com taken from Dan Guido's pentesting class.",
+      "start_time": "2011-11-08T19:00:00",
+      "end_time": "2011-11-08T21:30:00",
+      "location": "Taylor 247 @ CSI",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373423_279776292056422_721003889_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373423_279776292056422_721003889_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373423_279776292056422_721003889_t.jpg"
-    }, 
+      },
+      "id": "279776292056422",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t5/373423_279776292056422_721003889_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Turkey Lan planning night", 
-      "description": "We will be planning and ironing out all the details for the turkey lan.  If you plan on coming to the LAN, plan on coming to help get the stuff ready!", 
-      "start_time": "2011-11-02T19:00:00", 
-      "end_time": "2011-11-02T21:00:00", 
-      "location": "CSI Sub", 
-      "host": "SocialGeeks", 
+      "name": "Turkey Lan planning night",
+      "description": "We will be planning and ironing out all the details for the turkey lan.  If you plan on coming to the LAN, plan on coming to help get the stuff ready!",
+      "start_time": "2011-11-02T19:00:00",
+      "end_time": "2011-11-02T21:00:00",
+      "location": "CSI Sub",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "248187198566972",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "CSI-Halloween Event", 
-      "description": "CSI's Halloween Night.  We will be doing two cool sciency projects.  Dry ice bubbles and cd hover craft things, and giving out some candy to the kids.", 
-      "start_time": "2011-10-29T11:30:00", 
-      "end_time": "2011-10-29T14:00:00", 
-      "location": "Gym", 
-      "host": "SocialGeeks", 
+      "name": "CSI-Halloween Event",
+      "description": "CSI's Halloween Night.  We will be doing two cool sciency projects.  Dry ice bubbles and cd hover craft things, and giving out some candy to the kids.",
+      "start_time": "2011-10-29T11:30:00",
+      "end_time": "2011-10-29T14:00:00",
+      "location": "Gym",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://profile-a.xx.fbcdn.net/hprofile-prn2/261088_174185155999083_817074417_s.jpg", 
-      "pic_big": "https://profile-a.xx.fbcdn.net/hprofile-prn2/261088_174185155999083_817074417_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://profile-a.xx.fbcdn.net/hprofile-prn2/261088_174185155999083_817074417_t.jpg"
-    }, 
+      },
+      "id": "174185155999083",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t5/261088_174185155999083_817074417_q.jpg"
+        }
+      }
+    },
     {
-      "name": "CSI Halloween Event Preparation", 
-      "description": "Bring a coat", 
-      "start_time": "2011-10-28T19:00:00", 
-      "end_time": "2011-10-28T21:00:00", 
-      "location": "", 
-      "host": "SocialGeeks", 
+      "name": "CSI Halloween Event Preparation",
+      "description": "Bring a coat",
+      "start_time": "2011-10-28T19:00:00",
+      "end_time": "2011-10-28T21:00:00",
       "venue": {
-        "street": "526 Madison", 
-        "city": "", 
-        "state": "", 
+        "street": "526 Madison",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "179018085517184",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Board-game Night", 
-      "description": "Just a relaxing night to ease down from the busy weekend we will have had doing the 2 events. So bring your favorite board game, card game, anything not digital game and lets have some fun.", 
-      "start_time": "2011-10-26T19:00:00", 
-      "end_time": "2011-10-26T21:00:00", 
-      "location": "CSI SUB", 
-      "host": "SocialGeeks", 
+      "name": "Board-game Night",
+      "description": "Just a relaxing night to ease down from the busy weekend we will have had doing the 2 events. So bring your favorite board game, card game, anything not digital game and lets have some fun.",
+      "start_time": "2011-10-26T19:00:00",
+      "end_time": "2011-10-26T21:00:00",
+      "location": "CSI SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://profile-a.xx.fbcdn.net/hprofile-ash4/276446_209282502470374_1489194653_s.jpg", 
-      "pic_big": "https://profile-a.xx.fbcdn.net/hprofile-ash4/276446_209282502470374_1489194653_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://profile-a.xx.fbcdn.net/hprofile-ash4/276446_209282502470374_1489194653_t.jpg"
-    }, 
+      },
+      "id": "209282502470374",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t5/276446_209282502470374_1489194653_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Security Group Night", 
-      "description": "For the people who are interested in the security group, our next meaning is going to be in the Taylor (thanks Dan) 247 room on the above date. \n\nWe've got a few different ideas for some hands on projects and I've got a couple of videos set aside as well.", 
-      "start_time": "2011-10-25T19:00:00", 
-      "end_time": "2011-10-25T22:00:00", 
-      "location": "Taylor 247, CSI", 
-      "host": "SocialGeeks", 
+      "name": "Security Group Night",
+      "description": "For the people who are interested in the security group, our next meaning is going to be in the Taylor (thanks Dan) 247 room on the above date. \n\nWe've got a few different ideas for some hands on projects and I've got a couple of videos set aside as well.",
+      "start_time": "2011-10-25T19:00:00",
+      "end_time": "2011-10-25T22:00:00",
+      "location": "Taylor 247, CSI",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/276401_294117593950501_125664738_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/276401_294117593950501_125664738_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/276401_294117593950501_125664738_t.jpg"
-    }, 
+      },
+      "id": "294117593950501",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/t5/276401_294117593950501_125664738_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Computer Repair Fundraiser", 
-      "description": "The CSI SocialGeeks Club will be running a one day special computer service/cleaning for a very low price.  On October 22nd from 9:00 am to 5:00 pm computers can be dropped off at CSI's campus in Canyon Room 113.  Limited space available.  First come first served.  For more information please contact 208-732-6847.\n\nServices performed may be extensive.  Please plan to drop off your computer on October 22nd from 9:00 am to 5:00 pm and pick it up on October 23rd between 12:30 pm and 5:00 pm.", 
-      "start_time": "2011-10-22T09:00:00", 
-      "end_time": "2011-10-23T17:00:00", 
-      "location": "Canyon Building 113", 
-      "host": "SocialGeeks", 
+      "name": "Computer Repair Fundraiser",
+      "description": "The CSI SocialGeeks Club will be running a one day special computer service/cleaning for a very low price.  On October 22nd from 9:00 am to 5:00 pm computers can be dropped off at CSI's campus in Canyon Room 113.  Limited space available.  First come first served.  For more information please contact 208-732-6847.\n\nServices performed may be extensive.  Please plan to drop off your computer on October 22nd from 9:00 am to 5:00 pm and pick it up on October 23rd between 12:30 pm and 5:00 pm.",
+      "start_time": "2011-10-22T09:00:00",
+      "end_time": "2011-10-23T17:00:00",
+      "location": "Canyon Building 113",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "243949462318319",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Security 101 Community Event", 
-      "description": "We will be presenting the topic of basic computer security to the general public.  This is a great event for people to learn WHY it's important to have good security, passwords, anti-virus stuff and more.  Bring friends and guests!", 
-      "start_time": "2011-10-19T19:00:00", 
-      "end_time": "2011-10-19T22:00:00", 
-      "location": "Recital Hall of the Fine Arts Building", 
-      "host": "SocialGeeks", 
+      "name": "Security 101 Community Event",
+      "description": "We will be presenting the topic of basic computer security to the general public.  This is a great event for people to learn WHY it's important to have good security, passwords, anti-virus stuff and more.  Bring friends and guests!",
+      "start_time": "2011-10-19T19:00:00",
+      "end_time": "2011-10-19T22:00:00",
+      "location": "Recital Hall of the Fine Arts Building",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "153858038037978",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Security Group Night", 
-      "description": "For the people who are interested in the security group, our next meaning is going to be in the canyon 247 room on the above date.  Bring your laptops, study some programming and get ready to learn and burn that brain.\n\nWe've got a few different ideas for some hands on projects and I've got a couple of videos set aside as well.", 
-      "start_time": "2011-10-18T19:00:00", 
-      "end_time": "2011-10-18T22:00:00", 
-      "location": "Canyon 247, CSI", 
-      "host": "SocialGeeks", 
+      "name": "Security Group Night",
+      "description": "For the people who are interested in the security group, our next meaning is going to be in the canyon 247 room on the above date.  Bring your laptops, study some programming and get ready to learn and burn that brain.\n\nWe've got a few different ideas for some hands on projects and I've got a couple of videos set aside as well.",
+      "start_time": "2011-10-18T19:00:00",
+      "end_time": "2011-10-18T22:00:00",
+      "location": "Canyon 247, CSI",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://profile-b.xx.fbcdn.net/hprofile-prn2/276449_129688353799163_671584078_s.jpg", 
-      "pic_big": "https://profile-b.xx.fbcdn.net/hprofile-prn2/276449_129688353799163_671584078_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://profile-b.xx.fbcdn.net/hprofile-prn2/276449_129688353799163_671584078_t.jpg"
-    }, 
+      },
+      "id": "129688353799163",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t5/276449_129688353799163_671584078_q.jpg"
+        }
+      }
+    },
     {
-      "name": "My Story Speaking Series - Brett Reid, Social Science Dept Char, CSI", 
-      "description": "he “My Story” talks are open-ended talks from people in leadership and role model positions. The theme will be on sharing interesting stories of where they’ve been and how they got there, with a goal of inspiring and promoting leadership within the SocialGeeks club and the community.", 
-      "start_time": "2011-10-12T19:00:00", 
-      "end_time": "2011-10-12T21:00:00", 
-      "location": "SUB, Fireplace room.", 
-      "host": "SocialGeeks", 
+      "name": "My Story Speaking Series - Brett Reid, Social Science Dept Char, CSI",
+      "description": "he “My Story” talks are open-ended talks from people in leadership and role model positions. The theme will be on sharing interesting stories of where they’ve been and how they got there, with a goal of inspiring and promoting leadership within the SocialGeeks club and the community.",
+      "start_time": "2011-10-12T19:00:00",
+      "end_time": "2011-10-12T21:00:00",
+      "location": "SUB, Fireplace room.",
       "venue": {
-        "street": "315 Falls Ave", 
-        "city": "Twin Falls", 
-        "state": "Idaho", 
-        "country": "United States", 
-        "latitude": 42.5631, 
+        "street": "315 Falls Ave",
+        "city": "Twin Falls",
+        "state": "Idaho",
+        "country": "United States",
+        "latitude": 42.5631,
         "longitude": -114.46
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "286005368079750",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Arduinos", 
-      "description": "We will be using Arduinos to do some cool electronic stuff.  Sure to be a fun night!", 
-      "start_time": "2011-10-05T19:00:00", 
-      "end_time": "2011-10-05T22:00:00", 
-      "location": "Student union building at CSI", 
-      "host": "SocialGeeks", 
+      "name": "Arduinos",
+      "description": "We will be using Arduinos to do some cool electronic stuff.  Sure to be a fun night!",
+      "start_time": "2011-10-05T19:00:00",
+      "end_time": "2011-10-05T22:00:00",
+      "location": "Student union building at CSI",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "124208707679914",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Collaborative Security Class", 
-      "description": "This is the night for people who maybe wish to learn more indepth security.  We will be working together on projects and learn how to solve them.  The first night will be getting to assess everyone's skills and see where we are at as a whole.  ", 
-      "start_time": "2011-09-29T19:00:00", 
-      "end_time": "2011-09-29T20:30:00", 
-      "location": "CSI Taylor Bldg. 247", 
-      "host": "SocialGeeks", 
+      "name": "Collaborative Security Class",
+      "description": "This is the night for people who maybe wish to learn more indepth security.  We will be working together on projects and learn how to solve them.  The first night will be getting to assess everyone's skills and see where we are at as a whole.",
+      "start_time": "2011-09-29T19:00:00",
+      "end_time": "2011-09-29T20:30:00",
+      "location": "CSI Taylor Bldg. 247",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "154609461295346",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Robotics Night with the High School Robotics club", 
-      "description": "Mark and his friends (and dad) from the robotic club will be coming in and letting us use the kits and build stuff with it.  This is going to be a fun event that we can use to help the community team.", 
-      "start_time": "2011-09-29T16:00:00", 
-      "end_time": "2011-09-29T18:00:00", 
-      "location": "CSI Taylor Bldg. 247", 
-      "host": "SocialGeeks", 
+      "name": "Robotics Night with the High School Robotics club",
+      "description": "Mark and his friends (and dad) from the robotic club will be coming in and letting us use the kits and build stuff with it.  This is going to be a fun event that we can use to help the community team.",
+      "start_time": "2011-09-29T16:00:00",
+      "end_time": "2011-09-29T18:00:00",
+      "location": "CSI Taylor Bldg. 247",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "252224841487812",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Cooking for Geeks", 
-      "description": "Bobbi will be showing us some tasty stuff involving Bacon, and cold smoking.  Food is involved and always a crowd pleaser!", 
-      "start_time": "2011-09-28T19:00:00", 
-      "end_time": "2011-09-28T22:00:00", 
-      "location": "Student Union Building", 
-      "host": "SocialGeeks", 
+      "name": "Cooking for Geeks",
+      "description": "Bobbi will be showing us some tasty stuff involving Bacon, and cold smoking.  Food is involved and always a crowd pleaser!",
+      "start_time": "2011-09-28T19:00:00",
+      "end_time": "2011-09-28T22:00:00",
+      "location": "Student Union Building",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "102645099841221",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "My Story Speaking Series - Graydon Stanley Dean of Student Service, CSI", 
-      "description": "The “My Story” talks are open-ended talks from people in leadership and role model positions.  The theme will be on sharing interesting stories of where they’ve been and how they got there, with a goal of inspiring and promoting leadership within the SocialGeeks club and the community. ", 
-      "start_time": "2011-09-21T19:00:00", 
-      "end_time": "2011-09-21T21:00:00", 
-      "location": "CSI- Student Union Building", 
-      "host": "SocialGeeks", 
+      "name": "My Story Speaking Series - Graydon Stanley Dean of Student Service, CSI",
+      "description": "The “My Story” talks are open-ended talks from people in leadership and role model positions.  The theme will be on sharing interesting stories of where they’ve been and how they got there, with a goal of inspiring and promoting leadership within the SocialGeeks club and the community.",
+      "start_time": "2011-09-21T19:00:00",
+      "end_time": "2011-09-21T21:00:00",
+      "location": "CSI- Student Union Building",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/276969_114351222000147_352661300_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/276969_114351222000147_352661300_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/276969_114351222000147_352661300_t.jpg"
-    }, 
+      },
+      "id": "114351222000147",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t5/276969_114351222000147_352661300_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Guest Speaker Dr. Jeff Fox, CSI Executive Vice president", 
-      "description": "We have a special treat for all SocialGeeks!\nDr. Jeff Fox has graciously agreed to speak with our club on 9/14 to tell us his story!\nAny remaining time will be used to to discuss our fall semester fundraiser.", 
-      "start_time": "2011-09-14T19:00:00", 
-      "end_time": "2011-09-14T22:00:00", 
-      "location": "CSI - SUB", 
-      "host": "SocialGeeks", 
+      "name": "Guest Speaker Dr. Jeff Fox, CSI Executive Vice president",
+      "description": "We have a special treat for all SocialGeeks!\nDr. Jeff Fox has graciously agreed to speak with our club on 9/14 to tell us his story!\nAny remaining time will be used to to discuss our fall semester fundraiser.",
+      "start_time": "2011-09-14T19:00:00",
+      "end_time": "2011-09-14T22:00:00",
+      "location": "CSI - SUB",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/277166_265116723528680_868193306_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/277166_265116723528680_868193306_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/277166_265116723528680_868193306_t.jpg"
-    }, 
+      },
+      "id": "265116723528680",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/t5/277166_265116723528680_868193306_q.jpg"
+        }
+      }
+    },
     {
-      "name": "General Meeting", 
-      "description": "", 
-      "start_time": "2011-09-07T19:00:00", 
-      "end_time": "2011-09-07T22:00:00", 
-      "location": "CSI- Student Union Building", 
-      "host": "SocialGeeks", 
+      "name": "General Meeting",
+      "start_time": "2011-09-07T19:00:00",
+      "end_time": "2011-09-07T22:00:00",
+      "location": "CSI- Student Union Building",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "218559774860595",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "First Official SG meeting of the new semester!", 
-      "description": "The Student Union building is attached to the back side of the Taylor building near the CSI campus entrance.", 
-      "start_time": "2011-08-31T19:00:00", 
-      "end_time": "2011-08-31T21:00:00", 
-      "location": "Student Union Building (SUB), CSI campus", 
-      "host": "SocialGeeks", 
+      "name": "First Official SG meeting of the new semester!",
+      "description": "The Student Union building is attached to the back side of the Taylor building near the CSI campus entrance.",
+      "start_time": "2011-08-31T19:00:00",
+      "end_time": "2011-08-31T21:00:00",
+      "location": "Student Union Building (SUB), CSI campus",
       "venue": {
-        "street": "315 Falls Ave", 
-        "city": "Twin Falls", 
-        "state": "Idaho", 
-        "country": "United States", 
-        "latitude": 42.5631, 
+        "street": "315 Falls Ave",
+        "city": "Twin Falls",
+        "state": "Idaho",
+        "country": "United States",
+        "latitude": 42.5631,
         "longitude": -114.46
-      }, 
-      "pic": "https://profile-a.xx.fbcdn.net/hprofile-ash2/276516_266977073314740_5643725_s.jpg", 
-      "pic_big": "https://profile-a.xx.fbcdn.net/hprofile-ash2/276516_266977073314740_5643725_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://profile-a.xx.fbcdn.net/hprofile-ash2/276516_266977073314740_5643725_t.jpg"
-    }, 
+      },
+      "id": "266977073314740",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/t5/276516_266977073314740_5643725_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Website Meeting/Student Outreach", 
-      "description": "(This is a tentative date) This will be the final meeting for the Website update. This meeting will also be used to coordinate student outreach, please bring ideas on how to get more CSI students involved. ", 
-      "start_time": "2011-08-24T19:00:00", 
-      "end_time": "2011-08-24T21:00:00", 
-      "location": "CSI - Student Union Building ", 
-      "host": "SocialGeeks", 
+      "name": "Website Meeting/Student Outreach",
+      "description": "(This is a tentative date) This will be the final meeting for the Website update. This meeting will also be used to coordinate student outreach, please bring ideas on how to get more CSI students involved.",
+      "start_time": "2011-08-24T19:00:00",
+      "end_time": "2011-08-24T21:00:00",
+      "location": "CSI - Student Union Building ",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "137365153010982",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Student Club Booth by the Student Union Building (SUB)", 
-      "description": "", 
-      "start_time": "2011-08-24T09:30:00", 
-      "end_time": "2011-08-24T14:00:00", 
-      "location": "Outside Student Union Building (SUB)", 
-      "host": "SocialGeeks", 
+      "name": "Student Club Booth by the Student Union Building (SUB)",
+      "start_time": "2011-08-24T09:30:00",
+      "end_time": "2011-08-24T14:00:00",
+      "location": "Outside Student Union Building (SUB)",
       "venue": {
-        "street": "315 Falls Ave", 
-        "city": "Twin Falls", 
-        "state": "Idaho", 
-        "country": "United States", 
-        "latitude": 42.5631, 
+        "street": "315 Falls Ave",
+        "city": "Twin Falls",
+        "state": "Idaho",
+        "country": "United States",
+        "latitude": 42.5631,
         "longitude": -114.46
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/277083_265520360142493_3667593_s.jpg", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/277083_265520360142493_3667593_n.jpg", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/277083_265520360142493_3667593_t.jpg"
-    }, 
+      },
+      "id": "265520360142493",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "url": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t5/277083_265520360142493_3667593_q.jpg"
+        }
+      }
+    },
     {
-      "name": "Fundraiser Meeting", 
-      "description": "(This is a tentative date) This meeting will be to discuss the Fall Semester fundraiser. It will be a computer clean up service. Bobbi will be the PM for this event.", 
-      "start_time": "2011-08-10T19:00:00", 
-      "end_time": "2011-08-10T22:00:00", 
-      "location": "CSI - Student Union Building ", 
-      "host": "SocialGeeks", 
+      "name": "Fundraiser Meeting",
+      "description": "(This is a tentative date) This meeting will be to discuss the Fall Semester fundraiser. It will be a computer clean up service. Bobbi will be the PM for this event.",
+      "start_time": "2011-08-10T19:00:00",
+      "end_time": "2011-08-10T22:00:00",
+      "location": "CSI - Student Union Building ",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "180228322037942",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "General Meeting ", 
-      "description": "This meeting will be to discuss and finalize the upcoming semester’s events and calendar.", 
-      "start_time": "2011-07-27T19:00:00", 
-      "end_time": "2011-07-27T22:00:00", 
-      "location": "CSI - Student Union Building ", 
-      "host": "SocialGeeks", 
+      "name": "General Meeting ",
+      "description": "This meeting will be to discuss and finalize the upcoming semester’s events and calendar.",
+      "start_time": "2011-07-27T19:00:00",
+      "end_time": "2011-07-27T22:00:00",
+      "location": "CSI - Student Union Building ",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "181727008553972",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "SocialGeeks Website Meeting Follow-Up", 
-      "description": "Resident web design genius and all-around cool cat Graphikos will be in town this weekend, so it would be an excellent time to get together and talk about what we want to see on the web site.", 
-      "start_time": "2011-07-22T19:00:00", 
-      "end_time": "2011-07-22T22:00:00", 
-      "location": "CSI Student Union", 
-      "host": "SocialGeeks", 
+      "name": "SocialGeeks Website Meeting Follow-Up",
+      "description": "Resident web design genius and all-around cool cat Graphikos will be in town this weekend, so it would be an excellent time to get together and talk about what we want to see on the web site.",
+      "start_time": "2011-07-22T19:00:00",
+      "end_time": "2011-07-22T22:00:00",
+      "location": "CSI Student Union",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
-    }, 
+      },
+      "id": "104376582993557",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
+    },
     {
-      "name": "Website Meeting", 
-      "description": "This meeting will be to discuss updating and expanding the Website. Dino will be the PM for this project, get in contact with him if you would like to volunteer your skills. ", 
-      "start_time": "2011-07-13T19:00:00", 
-      "end_time": "2011-07-13T22:00:00", 
-      "location": "CSI - Student Union Building", 
-      "host": "SocialGeeks", 
+      "name": "Website Meeting",
+      "description": "This meeting will be to discuss updating and expanding the Website. Dino will be the PM for this project, get in contact with him if you would like to volunteer your skills.",
+      "start_time": "2011-07-13T19:00:00",
+      "end_time": "2011-07-13T22:00:00",
+      "location": "CSI - Student Union Building",
       "venue": {
-        "street": "", 
-        "city": "", 
-        "state": "", 
+        "street": "",
+        "city": "",
+        "state": "",
         "country": ""
-      }, 
-      "pic": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yi/r/zSnTif5Rf_V.png", 
-      "pic_big": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yn/r/5uwzdFmIMKQ.png", 
-      "pic_cover": null, 
-      "pic_small": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yy/r/XcB-JGXohjk.png"
+      },
+      "id": "101235676638879",
+      "picture": {
+        "data": {
+          "is_silhouette": true,
+          "url": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yE/r/tKlGLd_GmXe.png"
+        }
+      }
     }
-  ]
+  ],
+  "paging": {
+    "cursors": {
+      "after": "MjE5MDIxMjcxNjM3MDAy",
+      "before": "NDIyMzQ3NzI3NzgyNjM1"
+    },
+    "next": "https://graph.facebook.com/212291852119748/events?fields=name,description,start_time,end_time,location,venue,picture&limit=500&after=MjE5MDIxMjcxNjM3MDAy"
+  }
 }
